@@ -1,0 +1,25 @@
+{
+    "returnTag": "0", 
+    "returnMsg": null, 
+    "totalSize":12,
+    "returnDataList": [{
+        "id": 1, 
+        "repairNo": "001", 
+        "dateTime": 15820449999,
+	"totalCost": 123.45,
+	"servNo": "SN001",
+	"location":{
+		"id":1,
+		"locName":"罗湖区",
+		"detailAddr":"中社广场A座"
+	},
+	"serviceType":{
+		"id":1,
+		"servName":"维修服务",
+		"questionTypeList":[{
+			"id":1,
+			"questionName":"设备损坏"
+		}]
+	}
+   }]
+}

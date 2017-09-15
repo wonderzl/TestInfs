@@ -1,0 +1,29 @@
+{
+    "returnTag": "0", 
+    "returnMsg": null, 
+    "returnDataList": [{
+      "locationList":[{
+		"id":1,
+		"locName":"罗湖区",
+		"detailAddr":"中社广场A座"
+	}],
+	"serviceTypeList":[{
+		"id":1,
+		"servName":"维修服务",
+		"questionTypeList":[{
+			"id":1,
+			"questionName":"设备损坏"
+		},{
+			"id":2,
+			"questionName":"人为损坏"
+		}]
+	},{
+		"id":2,
+		"servName":"售后服务",
+		"questionTypeList":[{
+			"id":1,
+			"questionName":"设备损坏"
+		}]
+	}]
+   }]
+}

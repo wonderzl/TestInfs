@@ -1,0 +1,18 @@
+{
+    "returnTag": "0", 
+    "returnMsg": null, 
+    "totalSize":12,
+    "returnDataList": [{
+        "id": 1, 
+        "dateTime": 15820449999,
+	"status":0,
+	"statusDesc":"已提交",
+	"applyNo":"AN1001",
+	"applicant":{
+		"company":"软通",
+		"name":"张三"
+	},
+	"startDate": 15820449999,
+	"endDate": 15820489999
+   }]
+}

@@ -1,0 +1,31 @@
+{
+    "returnTag": "0", 
+    "returnMsg": null, 
+    "returnData": {
+        "id": 1, 
+        "dateTime": 15820449999,
+	"status":0,
+	"statusDesc":"已提交",
+	"applyNo":"AN1001",
+	"applicant":{
+		"company":"软通",
+		"name":"张三"
+	},
+	"startDate": 15820449999,
+	"endDate": 15820489999,
+	"content":"推广微信摇一摇",
+	"processList":[{
+		"id":1,
+		"statusDesc":"您的问题已接受，正在处理",
+		"dealPerson":"张三",
+		"phone":"158/20449999",
+		"desc":"处理中，请稍候",
+		"dateTime":15966325544,
+		"picList":[{
+			"id": 1,
+			"url":"www.baidu.com",
+			"thumbUrl":"www.baidu.com"
+		}]
+	}]
+    }
+}

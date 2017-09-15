@@ -1,0 +1,11 @@
+{
+    "returnTag": "0", 
+    "returnMsg": null, 
+    "totalSize":4,
+    "returnDataList": [{
+        "id": 1, 
+	"picUrl":"www.baidu.com/p1",
+	"title":"详情标题",
+	"content":"详情内容"
+   }]
+}

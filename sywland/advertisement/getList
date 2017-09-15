@@ -1,0 +1,12 @@
+{
+    "returnTag": "0", 
+    "returnMsg": null, 
+    "totalSize":4,
+    "returnDataList": [{
+        "id": 1, 
+        "picList": ["www.baidu.com/p1","www.baidu.com/p2"],
+	"hasDetail": false,
+	"title":"详情标题",
+	"content":"详情内容"
+   }]
+}

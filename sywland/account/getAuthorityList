@@ -1,0 +1,14 @@
+{
+    "returnTag": "0", 
+    "returnMsg": null, 
+    "returnDataList": [
+        {
+            "authKey": "reportRepaire", 
+            "authValue": 1
+        }, 
+        {
+            "authKey": "suggestionFeedback", 
+            "authValue": 1
+        }
+    ]
+}

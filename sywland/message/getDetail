@@ -1,0 +1,12 @@
+{
+    "returnTag": "0", 
+    "returnMsg": null, 
+    "returnData": {
+         "id": 1, 
+        "dateTime": 15820449999,
+	"type": 0
+	"status": 0,
+	"title":"这是一条系统消息",
+	"content":"消息内容"
+    }
+}
